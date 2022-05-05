@@ -10,3 +10,11 @@ For you, it might be a good journey to improve on your technical abilities at th
 To do this you will need to create
 1. Microsoft Developer Account
 2. Microsoft Azure Student Account
+
+Download the ASUU30Daysoflearning file and you can use it to learn.
+
+Kindly note that you can use this startegy for a group of students and learners within your community.
+
+
+
+
