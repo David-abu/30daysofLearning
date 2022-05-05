@@ -1,7 +1,7 @@
 # 30daysofLearning
 This learning is for students and beginners who wants build tech knowledge of Microsoft 365, Microsoft Power Platform and Microsoft Azure.
 
-The story behind this learning are actually Nigeria University students who are currently at home and couldnt go to school, because of the strike between the lecturers and the federal government.
+The story behind this project is actually about how Nigeria University students who are currently at home and couldn't go to school, because of the strike between the lecturers and the federal government.
 
 To keep them busy and improve their knowlwdge, we embark on the #ASUU30DaysofLearning (check the hashtag of Twitter) in Nigeria with over 3000 registered students.
 
