@@ -1,4 +1,4 @@
-# 30daysofLearning
+# Studenthon30daysofLearning
 This learning is for students and beginners who wants build tech knowledge of Microsoft 365, Microsoft Power Platform and Microsoft Azure.
 
 The story behind this project is actually about how Nigeria University students who are currently at home and couldn't go to school, because of the strike between the lecturers and the federal government.
